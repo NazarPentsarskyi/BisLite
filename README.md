@@ -1,2 +1,2 @@
 # BisLite
-/*The project is in the process*/
+/*The project is in progress*/
